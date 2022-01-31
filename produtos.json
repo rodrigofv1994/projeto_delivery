@@ -1,0 +1,16 @@
+[
+    {
+        "id": "61e3950f9260b",
+        "nome": "Batata Frita G",
+        "preco": "20.00",
+        "tipoProduto": "Batata-frita",
+        "imagem": "https:\/\/ntj8tq2r.srv-45-178-181-231.webserverhost.top\/lanchonete_netbeans\/imagens\/61e3950f919e5.jpeg"
+    },
+    {
+        "id": "61e3952970d0e",
+        "nome": "Coca cola lata",
+        "preco": "10.00",
+        "tipoProduto": "refrigerante",
+        "imagem": "https:\/\/ntj8tq2r.srv-45-178-181-231.webserverhost.top\/lanchonete_netbeans\/imagens\/61e39529706a6.jpg"
+    }
+]
